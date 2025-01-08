@@ -3,17 +3,28 @@
 Welcome to the most organized collection of **Pokhara University Notes** for Civil, Computer, and IT programs. This repository serves as a hub for students and educators, providing direct links to semester-wise notes.
 
 ---
+### 📚 Civil Engineering Notes by Semester  
 
-## 📚 Civil Engineering Notes
-Explore semester-wise notes for **Pokhara University's Civil Engineering** curriculum. Click on the links below to access high-quality and well-organized study materials.
+- 🔹 **[First Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/First)**  
+  Comprehensive notes and study materials for first-year Civil Engineering students.  
 
-- **[First Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/First)**
-- **[Second Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Second)**
-- **[Third Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Third)**
-- **[Fourth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Fourth)**
-- **[Fifth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Fifth)**
-- **[Sixth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Sixth)**
-- **[Seventh Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Seventh)**
+- 🔹 **[Second Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Second)**  
+  Detailed semester notes covering essential topics for second semester students.  
+
+- 🔹 **[Third Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Third)**  
+  Study resources and notes for third semester courses in Civil Engineering.  
+
+- 🔹 **[Fourth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Fourth)**  
+  High-quality notes for fourth semester Civil Engineering subjects.  
+
+- 🔹 **[Fifth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Fifth)**  
+  Semester-specific notes for advanced Civil Engineering topics in the fifth semester.  
+
+- 🔹 **[Sixth Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Sixth)**  
+  Comprehensive materials for sixth semester Civil Engineering courses.  
+
+- 🔹 **[Seventh Semester Notes](https://sudhanparajuli.com.np/pokharauniversity/notes/Civil/Seventh)**  
+  Advanced notes and study guides for the penultimate semester of Civil Engineering.  
 
 ---
 
