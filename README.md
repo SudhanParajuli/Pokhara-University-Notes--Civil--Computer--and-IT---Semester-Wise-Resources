@@ -1,6 +1,6 @@
 # Pokhara University Notes: Civil, Computer, and IT Semesters
 
-Welcome to the most comprehensive and organized collection of **Pokhara University Notes** for Civil, Computer, and IT programs. This repository serves as a hub for students and educators, providing direct links to semester-wise notes hosted on [Sudhan Parajuli's Website](https://sudhanparajuli.com.np).
+Welcome to the most comprehensive and organized collection of **Pokhara University Notes** for Civil, Computer, and IT programs. This repository serves as a hub for students and educators, providing direct links to semester-wise notes.
 
 ---
 
@@ -49,20 +49,7 @@ For the complete collection of notes, visit **[Sudhan Parajuli's Website](https:
 
 ---
 
-## 📈 Contribute
-Help us grow this repository! If you have additional study materials or improvements, feel free to contribute via pull requests.
-
----
-
-## 👤 Author
-**Sudhan Parajuli (Sandesh Parajuli)**  
-[Website](https://sudhanparajuli.com.np) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/sudhan-parajuli)
-
----
-
 ### 📢 Share and Support
 If you find this repository helpful, don't forget to **star ⭐** it and share it with your friends!
 
 ---
-
-**Optimized for SEO**: This README.md is designed to help students and educators find the best resources for **Pokhara University** studies. Let's make education accessible to all!
