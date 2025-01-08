@@ -1,6 +1,6 @@
 # Pokhara University Notes: Civil, Computer, and IT Semesters
 
-Welcome to the most comprehensive and organized collection of **Pokhara University Notes** for Civil, Computer, and IT programs. This repository serves as a hub for students and educators, providing direct links to semester-wise notes.
+Welcome to the most organized collection of **Pokhara University Notes** for Civil, Computer, and IT programs. This repository serves as a hub for students and educators, providing direct links to semester-wise notes.
 
 ---
 
@@ -43,9 +43,69 @@ Access **Pokhara University IT Notes** for First Semester. Stay ahead in your st
 For the complete collection of notes, visit **[Sudhan Parajuli's Website](https://sudhanparajuli.com.np/pokharauniversity/notes)**.
 
 ---
-
-### 🏷️ Keywords
-**Pokhara University Notes**, **Civil Engineering Notes Pokhara University**, **Computer Engineering Notes**, **IT Notes First Semester**, **PU Notes**, **Semester-wise Notes**, **Nepal Engineering Study Materials**, **Sudhan Parajuli Notes**.
+### 🏷️ Keywords  
+- **Pokhara University Civil Engineering Notes**  
+- **Civil Engineering Notes Nepal**  
+- **Civil Engineering Study Materials for Pokhara University**  
+- **Semester-wise Civil Engineering Notes Pokhara University**  
+- **First Semester Civil Engineering Notes PU**  
+- **Second Semester Civil Engineering Notes PU**  
+- **Third Semester Civil Engineering Notes Pokhara University**  
+- **Fourth Semester Civil Engineering Notes Nepal**  
+- **Fifth Semester Civil Engineering Notes PU**  
+- **Sixth Semester Civil Engineering Notes Nepal**  
+- **Seventh Semester Civil Engineering Notes PU**  
+- **Eighth Semester Civil Engineering Notes Pokhara University**  
+- **Civil Engineering Syllabus Pokhara University**  
+- **PU Civil Engineering Exam Preparation Notes**  
+- **PU Civil Engineering Study Materials Nepal**  
+- **Engineering Mechanics Notes for Civil Engineering**  
+- **Surveying Notes for Pokhara University Students**  
+- **Engineering Geology Notes Nepal**  
+- **Structural Analysis Notes Pokhara University**  
+- **Building Construction Notes Nepal**  
+- **Hydraulics and Fluid Mechanics Notes**  
+- **Water Supply Engineering Notes Pokhara University**  
+- **Irrigation Engineering Study Notes**  
+- **Transportation Engineering Notes Nepal**  
+- **Soil Mechanics Notes for Civil Engineering**  
+- **Environmental Engineering Notes for PU Students**  
+- **Concrete Technology Notes Nepal**  
+- **Design of Steel Structures Notes PU**  
+- **Foundation Engineering Study Materials**  
+- **Hydrology and Water Resources Notes PU**  
+- **Bridge Engineering Notes Pokhara University**  
+- **Earthquake Engineering Notes Nepal**  
+- **Highway Engineering Notes for Pokhara University**  
+- **Construction Management Notes Nepal**  
+- **Nepal Civil Engineering Exam Notes**  
+- **Best Civil Engineering Notes for PU Students**  
+- **Civil Engineering Question Banks Pokhara University**  
+- **Top Civil Engineering Study Materials Nepal**  
+- **Complete Civil Engineering Notes for Pokhara University**  
+- **Nepal Engineering Study Notes for Civil Students**  
+- **Civil Engineering Lecture Notes Nepal**  
+- **Pokhara University Civil Engineering Previous Year Question Papers**  
+- **Semester-wise Syllabus for Civil Engineering PU**  
+- **Civil Engineering Lab Reports and Notes**  
+- **Civil Engineering Projects and Assignments Nepal**  
+- **Detailed Civil Engineering Notes for All Subjects**  
+- **Structural Engineering Notes Pokhara University**  
+- **Nepal Engineering Handouts and Study Materials**  
+- **PU Civil Engineering Complete Notes for All Semesters**  
+- **PU Civil Engineering PDF Notes Free Download**  
+- **Civil Engineering Revision Notes for Exam Preparation**  
+- **Best Civil Engineering Books and Notes for Nepal Students**  
+- **Engineering Graphics Notes for Civil Engineering**  
+- **Civil Engineering Code References and Study Guides**  
+- **Nepal Engineering Notes for Competitive Exams**  
+- **Pokhara University E-Library for Civil Engineering**  
+- **Civil Engineering Practical Notes for PU**  
+- **Hydraulic Engineering Notes Nepal**  
+- **Structural Design Notes for Civil Engineering Students**  
+- **PU Civil Engineering Syllabus and Study Guide**  
+- **Top Study Materials for Pokhara University Students**  
+- **Nepal Civil Engineering Exam Preparation Resources**  
 
 ---
 
